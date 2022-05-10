@@ -6,8 +6,8 @@
 #clockContainer{
     position: relative;
     margin: auto;
-    height: 35vw;
-    width: 35vw;
+    height: 750px;
+    width: 750px;
     background: url(img/clock.png) no-repeat;
     background-size: 100%;
 }
@@ -22,7 +22,7 @@
      width: 1.8%;
      height: 25%;
      top: 25%;
-     left: 48.85%;
+     left: 48.95%;
      opacity: 0.8;
      transform-origin: bottom;
  }
@@ -30,17 +30,17 @@
  #minute{
      width: 1.6%;
      height: 30%;
-     top: 19%;
-     left: 48.9%;
+     top: 20%;
+     left: 49%;
      opacity: 0.8;
      transform-origin: bottom;
  }
 
  #second{
      width: 1%;
-     height: 36%;
-     top: 14%;
-     left: 49.25%;
+     height: 37%;
+     top: 12.8%;
+     left: 49.45%;
      opacity: 0.8;
      transform-origin: bottom;
  }
